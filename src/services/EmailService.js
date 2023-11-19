@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const UNIT_API_BASE_URL = 'Portfolio-env.eba-tu3xdmv5.eu-north-1.elasticbeanstalk.com'//'https://markuvtest.website''http://localhost:8081''https://portfolio-zezula.website'
+const UNIT_API_BASE_URL = 'https://Portfolio-env.eba-tu3xdmv5.eu-north-1.elasticbeanstalk.com'//'https://markuvtest.website''http://localhost:8081''https://portfolio-zezula.website'
 
 class EmailService{
     sendEmail(emailData){
