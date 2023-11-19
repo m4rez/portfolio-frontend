@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const UNIT_API_BASE_URL = 'https://portfolio-zezula.website'//'https://markuvtest.website''http://localhost:8081'
+const UNIT_API_BASE_URL = 'https://zezula-aws-portfolio.com'//'https://markuvtest.website''http://localhost:8081''https://zezula-aws-portfolio.com''https://portfolio-zezula.website'
 
 class EmailService{
     sendEmail(emailData){
